@@ -1,7 +1,7 @@
 # Kevin Mota da Costa
 **Junior Machine Learning Engineer | Python, SQL & Machine Learning**  
-Vitória–ES, Brazil | Email: costakevinn.ml@gmail.com  
-LinkedIn: linkedin.com/in/seu-linkedin-aqui | GitHub: github.com/seu-github-aqui
+Vitória–ES, Brazil | Email: [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
+LinkedIn: [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linkedin-aqui) | GitHub: [github.com/seu-github-aqui](https://github.com/seu-github-aqui)
 
 ---
 
@@ -28,11 +28,11 @@ Focused on delivering practical, data-driven solutions with high impact.
 - **Data Analysis Projects** – Time series, predictive models, ETL pipelines  
 - **Machine Learning Models** – Gaussian Processes, Neural Networks, Probabilistic ML  
 
-> Projects are structured to demonstrate practical ML applications and problem-solving.
+> Projects demonstrate practical ML applications and problem-solving.
 
 ---
 
 ## Contact
-- **Email:** costakevinn.ml@gmail.com  
-- **LinkedIn:** linkedin.com/in/seu-linkedin-aqui  
-- **GitHub:** github.com/seu-github-aqui
+- **Email:** [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linkedin-aqui)  
+- **GitHub:** [github.com/seu-github-aqui](https://github.com/seu-github-aqui)
