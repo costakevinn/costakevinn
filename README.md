@@ -6,9 +6,8 @@ LinkedIn: [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linked
 ---
 
 ## About Me
-Aspiring Machine Learning Engineer with experience in Python, SQL, Data Analysis, and Machine Learning.  
-Strong background in building predictive models, data pipelines, and applying probabilistic ML techniques.  
-Focused on delivering practical, data-driven solutions with high impact.
+Aspiring Machine Learning Engineer with a strong analytical background (BSc in Physics) and 2 years of ML research experience, including a thesis in Machine Learning.  
+Experienced in Python, SQL, data analysis, and building predictive models and pipelines. Focused on delivering practical, data-driven solutions with high impact.
 
 ---
 
