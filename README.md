@@ -34,4 +34,4 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 ## Contact
 - **Email:** [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linkedin-aqui)  
-- **GitHub:** [github.com/seu-github-aqui](https://github.com/seu-github-aqui)
+- **GitHub:** [github.com/costakevinn](https://github.com/costakevinn)
