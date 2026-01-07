@@ -1,7 +1,7 @@
 # Kevin Mota da Costa
 **Junior Machine Learning Engineer | Python, SQL & Machine Learning**  
 Vitória–ES, Brazil | Email: [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
-LinkedIn: [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linkedin-aqui) | GitHub: [github.com/costakevinn](https://github.com/costakevinn)
+LinkedIn: [linkedin.com/in/costakevinnn](linkedin.com/in/costakevinnn) | GitHub: [github.com/costakevinn](https://github.com/costakevinn)
 
 ---
 
