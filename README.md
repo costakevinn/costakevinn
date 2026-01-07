@@ -23,9 +23,8 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 ---
 
 ## Projects
-- **StackOverRun** – SQL + Python + C++ project for ML prototype  
+
 - **Data Analysis Projects** – Time series, predictive models, ETL pipelines  
-- **Machine Learning Models** – Gaussian Processes, Neural Networks, Probabilistic ML  
 
 > Projects demonstrate practical ML applications and problem-solving.
 
@@ -33,5 +32,5 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 ## Contact
 - **Email:** [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/seu-linkedin-aqui](https://linkedin.com/in/seu-linkedin-aqui)  
+- **LinkedIn:** [linkedin.com/in/costakevinnn](https://www.linkedin.com/in/costakevinnn/)
 - **GitHub:** [github.com/costakevinn](https://github.com/costakevinn)
