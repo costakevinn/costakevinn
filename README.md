@@ -24,9 +24,11 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 ## Projects
 
-- **Data Analysis Projects** – Time series, predictive models, ETL pipelines  
+- **ParamInsight** – Probabilistic parameter inference tool using MCMC for 2D models. Implements Bayesian analysis from scratch (Box-Muller Gaussian generator, log-likelihood evaluation), generates trace, histogram, and scatter plots, and includes detailed results and technical documentation.  
+  [GitHub Repository](https://github.com/costakevinn/ParamInsight)
 
-> Projects demonstrate practical ML applications and problem-solving.
+> Demonstrates practical skills in statistical modeling, Bayesian inference, and Python-based data analysis for real-world-like scenarios.
+
 
 ---
 
