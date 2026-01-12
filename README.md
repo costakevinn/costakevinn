@@ -29,8 +29,6 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **machine learning, regression, Gaussian processes, uncertainty quantification, and Python-based predictive modeling**.
 
----
-
 - **ParamInsight** – Probabilistic parameter inference tool using MCMC for 2D models. Implements Bayesian analysis from scratch (Box-Muller Gaussian generator, log-likelihood evaluation), generates trace, histogram, and scatter plots, and includes detailed results and technical documentation.  
   [GitHub Repository](https://github.com/costakevinn/ParamInsight)
 
