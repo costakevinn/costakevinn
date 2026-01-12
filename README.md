@@ -24,6 +24,13 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 ## Projects
 
+* **GPredict** – Machine learning tool for **Gaussian Process Regression**. Learns nonlinear patterns, models predictive uncertainty, and generates prior/posterior visualizations along with error-aware forecasts.
+  [GitHub Repository](https://github.com/costakevinn/GPredict)
+
+> Demonstrates practical skills in **machine learning, regression, Gaussian processes, uncertainty quantification, and Python-based predictive modeling**.
+
+---
+
 - **ParamInsight** – Probabilistic parameter inference tool using MCMC for 2D models. Implements Bayesian analysis from scratch (Box-Muller Gaussian generator, log-likelihood evaluation), generates trace, histogram, and scatter plots, and includes detailed results and technical documentation.  
   [GitHub Repository](https://github.com/costakevinn/ParamInsight)
 
