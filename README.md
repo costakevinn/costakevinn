@@ -48,6 +48,13 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **optimization algorithms, numerical methods, gradient-based optimization, and scientific computing with Python**, applied to real-world optimization problems.
 
+* **Time Series Distance Estimation** – Large-scale **time series analytics and statistical modeling** pipeline for **irregular observational data**.
+  Uses **Lomb–Scargle periodograms (Astropy)**, **phase-folding**, and **regression (SciPy)** to extract periodic patterns and estimate physical parameters from **4,700+ real-world samples**, with validation against reference datasets.
+
+  [GitHub Repository](https://github.com/costakevinn/time-series-distance-estimation)
+
+> Demonstrates practical skills in **time series analysis, data pipelines, statistical regression, signal processing, model validation, and Python-based analytics** on noisy, real-world data, with results published on **NASA ADS (arXiv:2311.04470)**.
+
 
 ---
 
