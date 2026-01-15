@@ -34,6 +34,13 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in statistical modeling, Bayesian inference, and Python-based data analysis for real-world-like scenarios.
 
+* **Probabilistic ML Thesis** – End-to-end **machine learning and Bayesian inference** project applying **Neural Networks, Gaussian Process Regression and MCMC** to reconstruct and model **real, noisy datasets**.
+  Includes probabilistic regression, uncertainty quantification, posterior analysis, and model comparison using Python.
+
+  [GitHub Repository](https://github.com/costakevinn/probabilistic-ml-thesis)
+
+> Demonstrates practical skills in **probabilistic machine learning, Bayesian modeling, Gaussian processes, neural networks, MCMC, uncertainty quantification, and data-driven inference** on real-world data.
+
 * **OptLearn** – Python-based **optimization engine** for solving nonlinear minimization problems.
   Supports multiple gradient-based optimizers (SGD, Momentum, RMSProp, Adam), numerical gradients, and convergence tracking for robust parameter optimization and decision-oriented problem solving.
 
