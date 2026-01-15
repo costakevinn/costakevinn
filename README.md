@@ -34,6 +34,13 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in statistical modeling, Bayesian inference, and Python-based data analysis for real-world-like scenarios.
 
+* **OptLearn** – Python-based **optimization engine** for solving nonlinear minimization problems.
+  Supports multiple gradient-based optimizers (SGD, Momentum, RMSProp, Adam), numerical gradients, and convergence tracking for robust parameter optimization and decision-oriented problem solving.
+
+  [GitHub Repository](https://github.com/costakevinn/OptLearn)
+
+> Demonstrates practical skills in **optimization algorithms, numerical methods, gradient-based optimization, and scientific computing with Python**, applied to real-world optimization problems.
+
 
 ---
 
