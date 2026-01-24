@@ -35,8 +35,7 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
   [GitHub Repository](https://github.com/costakevinn/ProbNN)
 
   
-> Demonstrates practical skills in machine learning, neural networks, probabilistic modeling, uncertainty quantification, backpropagation, gradient-based optimization, numerical stability, and Python-based scientific computing, with end-to-end benchmarks including smooth, generic, and discontinuous regression scenarios.
-
+> Demonstrates practical skills in machine learning, neural networks, probabilistic modeling, uncertainty quantification, backpropagation, gradient-based optimization, numerical stability, and Python-based scientific computing.
 
 
 
