@@ -29,6 +29,17 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **machine learning, regression, Gaussian processes, uncertainty quantification, and Python-based predictive modeling**.
 
+
+
+* **ProbNN** – Probabilistic **Neural Network** for regression with heteroscedastic uncertainty. Implements a neural architecture with dual output heads (predictive mean and variance) trained via Gaussian Negative Log-Likelihood, enabling uncertainty-aware regression, stable learning on noisy data, and robust modeling of nonlinear, multi-scale, and discontinuous functions.
+  [GitHub Repository](https://github.com/costakevinn/ProbNN)
+
+  
+> Demonstrates practical skills in machine learning, neural networks, probabilistic modeling, uncertainty quantification, backpropagation, gradient-based optimization, numerical stability, and Python-based scientific computing, with end-to-end benchmarks including smooth, generic, and discontinuous regression scenarios.
+
+
+
+
 - **ParamInsight** – Probabilistic parameter inference tool using MCMC for 2D models. Implements Bayesian analysis from scratch (Box-Muller Gaussian generator, log-likelihood evaluation), generates trace, histogram, and scatter plots, and includes detailed results and technical documentation.  
   [GitHub Repository](https://github.com/costakevinn/ParamInsight)
 
