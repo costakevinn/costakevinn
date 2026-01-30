@@ -71,12 +71,6 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **SQL, relational data modeling, schema normalization, referential integrity, constraint-based validation, indexing strategies, and building reliable data foundations for analytics and machine learning systems**.
 
-
-* **RetailSQL** – Production-grade **relational data model** for retail systems, enforcing **business rules and data integrity at the database layer**.
-  [GitHub Repository](https://github.com/costakevinn/RetailSQL)
-
-> Demonstrates practical skills in **SQL, data modeling, relational databases, integrity constraints, and data foundations for analytics and machine learning**.
-
 ---
 
 ## Contact
