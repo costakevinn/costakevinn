@@ -65,6 +65,17 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **time series analysis, data pipelines, statistical regression, signal processing, model validation, and Python-based analytics** on noisy, real-world data, with results published on **NASA ADS (arXiv:2311.04470)**.
 
+* **RetailSQL** – Production-oriented **relational data platform** for retail operations.
+  Implements a normalized schema for **sales, products, stores, and inventory**, with **business rules enforced directly at the database level**.
+  [GitHub Repository](https://github.com/costakevinn/RetailSQL)
+
+> Demonstrates practical skills in **SQL, relational data modeling, schema normalization, referential integrity, constraint-based validation, indexing strategies, and building reliable data foundations for analytics and machine learning systems**.
+
+
+* **RetailSQL** – Production-grade **relational data model** for retail systems, enforcing **business rules and data integrity at the database layer**.
+  [GitHub Repository](https://github.com/costakevinn/RetailSQL)
+
+> Demonstrates practical skills in **SQL, data modeling, relational databases, integrity constraints, and data foundations for analytics and machine learning**.
 
 ---
 
