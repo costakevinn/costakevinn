@@ -34,11 +34,6 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 ---
 
-
-> Demonstrates practical skills in **language model fundamentals, autoregressive modeling, byte-level tokenization, neural network training from scratch, optimization, numerical stability, perplexity-based evaluation, and applied NLP on real financial documents**, with full transparency and reproducibility.
-
----
-
 * **GPredict** – Machine learning tool for **Gaussian Process Regression**. Learns nonlinear patterns, models predictive uncertainty, and generates prior/posterior visualizations along with error-aware forecasts.
   [GitHub Repository](https://github.com/costakevinn/GPredict)
 
