@@ -24,11 +24,15 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 ## Projects
 
-* **FilinGPT** – Byte-level **financial language model** trained from scratch on **SEC 10-K filings**.
-  Implements an end-to-end **autoregressive language modeling pipeline** using pure **NumPy**, including data extraction, byte-level tokenization, batching, training, inference, and evaluation.
-  Compares short baseline training (200 steps) with a full financial checkpoint (100k steps), showing strong convergence and emergence of structured financial language measured via **cross-entropy loss and perplexity**.
+* **FilinGPT** – Byte-level **financial language model** trained from scratch on **SEC 10-K filings** using pure NumPy.
+  Implements an end-to-end autoregressive pipeline (tokenization, training, inference, evaluation) and demonstrates clear convergence and structured financial language emergence measured via **perplexity**.
 
   [GitHub Repository](https://github.com/costakevinn/FilinGPT)
+
+> Demonstrates practical skills in **language modeling fundamentals, autoregressive neural networks, byte-level tokenization, optimization, and quantitative evaluation of LLM training**.
+
+---
+
 
 > Demonstrates practical skills in **language model fundamentals, autoregressive modeling, byte-level tokenization, neural network training from scratch, optimization, numerical stability, perplexity-based evaluation, and applied NLP on real financial documents**, with full transparency and reproducibility.
 
