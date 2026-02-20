@@ -71,6 +71,13 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 
 > Demonstrates practical skills in **SQL, relational data modeling, schema normalization, referential integrity, constraint-based validation, indexing strategies, and building reliable data foundations for analytics and machine learning systems**.
 
+* **ChinookAnalytics** – SQL-based **analytical data platform** built in **PostgreSQL** using a **layered stg → core → marts architecture**.
+  Transforms raw transactional data into **validated, business-aligned analytical marts** with **strict integrity enforcement** and **reconciliation-driven validation** in a fully reproducible Dockerized environment.
+
+  [GitHub Repository](https://github.com/costakevinn/ChinookAnalytics)
+
+> Demonstrates practical skills in **analytical engineering, SQL data modeling, data validation, reconciliation frameworks, relational integrity enforcement, and reproducible data pipelines**.
+
 ---
 
 ## Contact
