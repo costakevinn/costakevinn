@@ -25,8 +25,7 @@ Experienced in Python, SQL, data analysis, and building predictive models and pi
 ## Projects
 
 
-* **FilinGPT** – Byte-level **LLM** for financial documents built **from scratch** using **Python (NumPy)**.
-  Designed and implemented the full **LLM training pipeline** (data ingestion from SEC 10-K filings, byte-level tokenization, batching, autoregressive training, inference, and evaluation).
+* **FilinGPT** – Byte-level **LLM** for financial documents. Designed and implemented the full **LLM training pipeline** (data ingestion from SEC 10-K filings, byte-level tokenization, batching, autoregressive training, inference, and evaluation).
   Structured to support **retrieval-augmented generation (RAG)** workflows by training on domain-specific financial text and enabling downstream retrieval + generation integration.
 
   [GitHub Repository](https://github.com/costakevinn/FilinGPT)
