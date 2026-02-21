@@ -10,9 +10,9 @@ Vitória–ES, Brazil
 
 ## About
 
-Bachelor of Science in Physics with hands-on experience in Machine Learning and Data Analysis.
+B.Sc. in Physics with practical experience in Machine Learning and Data Engineering.
 
-Experience developing predictive models and neural network systems, and building SQL-based data platforms and structured data pipelines.
+Develops predictive models and neural network systems, while building structured SQL-based data platforms and end-to-end data pipelines.
 
 ---
 
@@ -20,64 +20,70 @@ Experience developing predictive models and neural network systems, and building
 
 ### Machine Learning
 
-**FilinGPT** — https://github.com/costakevinn/FilinGPT  
-Financial Language Model built in Python, implementing neural network training, structured data pipelines, gradient-based optimization, and domain-specific text modeling.
+**FilinGPT**  
+Financial language model built from scratch in Python, combining neural network training with structured data pipelines.  
+→ https://github.com/costakevinn/FilinGPT  
 
-**ProbNN** — https://github.com/costakevinn/ProbNN  
-Probabilistic regression model with predictive uncertainty estimation and custom training logic.
+**ProbNN**  
+Probabilistic regression model with predictive uncertainty estimation.  
+→ https://github.com/costakevinn/ProbNN  
 
-**GPredict** — https://github.com/costakevinn/GPredict  
-Gaussian Process-based predictive modeling framework for uncertainty estimation and forecasting.
+**GPredict**  
+Gaussian Process framework for uncertainty-aware forecasting.  
+→ https://github.com/costakevinn/GPredict  
 
-**Probabilistic ML Thesis** — https://github.com/costakevinn/probabilistic-ml-thesis  
-Applied probabilistic modeling and machine learning to real-world datasets.
+**Probabilistic ML Thesis**  
+Applied probabilistic modeling and machine learning to real-world datasets.  
+→ https://github.com/costakevinn/probabilistic-ml-thesis  
 
+**ParamInsight**  
+Bayesian parameter estimation tool using MCMC sampling.  
+→ https://github.com/costakevinn/ParamInsight  
+
+**OptLearn**  
+Optimization engine implementing Gradient Descent, RMSProp, and Adam.  
+→ https://github.com/costakevinn/OptLearn  
 
 ---
 
 ### Data & Analytics
 
-**ChinookAnalytics** — https://github.com/costakevinn/ChinookAnalytics  
-End-to-end SQL analytics platform with ETL pipelines, layered data modeling (staging → core → marts), and revenue validation.
+**ChinookAnalytics**  
+End-to-end SQL analytics platform with layered data modeling and ETL pipelines.  
+→ https://github.com/costakevinn/ChinookAnalytics  
 
-**RetailSQL** — https://github.com/costakevinn/RetailSQL  
-Relational PostgreSQL architecture focused on normalized schema design and data integrity enforcement.
+**RetailSQL**  
+PostgreSQL architecture focused on schema normalization and data integrity.  
+→ https://github.com/costakevinn/RetailSQL  
 
-**Time-Series Distance Estimation** — https://github.com/costakevinn/time-series-distance-estimation  
-Large-scale time series modeling involving signal extraction and statistical analysis.
-
-
-**ParamInsight** — https://github.com/costakevinn/ParamInsight  
-Bayesian parameter estimation framework using MCMC for statistical modeling.
-
-
-**OptLearn** — https://github.com/costakevinn/OptLearn  
-Optimization engine implementing Gradient Descent, RMSProp, and Adam for machine learning training.
+**Time-Series Distance Estimation**  
+Large-scale time series modeling and statistical signal analysis.  
+→ https://github.com/costakevinn/time-series-distance-estimation  
 
 ---
 
-## Skills
+## Core Competencies
 
-**Machine Learning:**  
+### Machine Learning
 Predictive Modeling • Regression • Classification • Neural Networks • Deep Learning • Probabilistic Modeling • Gaussian Processes • Feature Engineering • Model Training • Model Evaluation • Hyperparameter Tuning • Time Series Modeling  
 
-**Data Engineering & Analytics:**  
-Data Analysis • Data Modeling • ETL Pipelines • Data Cleaning • Data Validation • Data Integration • Analytics Engineering  
+### Data Engineering & Analytics
+Data Modeling • ETL Pipelines • Data Cleaning • Data Validation • Data Integration • Analytics Engineering  
 
-**Software & Systems Development:**  
+### Software & Systems
 End-to-End Pipeline Development • Version Control • Reproducible Workflows • Performance Optimization  
 
 ---
 
 ## Tools & Technologies
 
-**Programming & Data:**  
+### Programming & Data
 Python • SQL • PostgreSQL • NumPy • Pandas • SciPy • Matplotlib • OpenCV  
 
-**Machine Learning Frameworks:**  
+### ML Frameworks
 Scikit-learn • PyTorch • TensorFlow • Keras  
 
-**Workflow & Infrastructure:**  
+### Infrastructure
 Docker • Git • Linux • Jupyter Notebook  
 
 ---
@@ -87,9 +93,8 @@ Docker • Git • Linux • Jupyter Notebook
 **Bachelor of Science (B.Sc.) in Physics**  
 Federal University of Espírito Santo (UFES), Brazil — 2018–2023  
 Thesis in Machine Learning and Probabilistic Modeling.  
-CNPq-funded research applying Python to predictive modeling, time series analysis, and data-driven problem solving.
+CNPq-funded research applying Python to predictive modeling and time series analysis.
 
 **Technical Degree in IT Support & Systems**  
 Federal Institute of Espírito Santo (IFES), Brazil — 2016–2017  
-Training in systems integration, process automation, and structured technical problem-solving.
-
+Training in systems integration and structured technical problem-solving.
