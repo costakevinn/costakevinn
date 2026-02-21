@@ -17,14 +17,82 @@ and develops SQL-based data platforms and data pipelines
 for structured analytics workflows.
 
 
-# ESTAMOS AQUI
+## Projects
 
+### FilinGPT
 
-## About Me
-Aspiring Machine Learning Engineer with a strong analytical background (BSc in Physics) and 2 years of ML research experience, including a thesis in Machine Learning.  
-Experienced in Python, SQL, data analysis, and building predictive models and pipelines. Focused on delivering practical, data-driven solutions with high impact.
+[https://github.com/costakevinn/FilinGPT](https://github.com/costakevinn/FilinGPT)
+
+Financial Language Model built in Python, implementing neural network training, structured data pipelines, optimization techniques, and financial text modeling.
 
 ---
+
+### ChinookAnalytics
+
+[https://github.com/costakevinn/ChinookAnalytics](https://github.com/costakevinn/ChinookAnalytics)
+
+End-to-end SQL analytics platform with ETL pipelines, layered data modeling (staging → core → marts), revenue validation, and business-oriented metrics.
+
+---
+
+### RetailSQL
+
+[https://github.com/costakevinn/RetailSQL](https://github.com/costakevinn/RetailSQL)
+
+Relational data platform focused on normalized schema design, data integrity, business rule enforcement, and production-ready PostgreSQL architecture.
+
+---
+
+### ProbNN
+
+[https://github.com/costakevinn/ProbNN](https://github.com/costakevinn/ProbNN)
+
+Machine learning model for probabilistic regression with predictive uncertainty, custom training logic, and risk-aware modeling in Python.
+
+---
+
+### GPredict
+
+[https://github.com/costakevinn/GPredict](https://github.com/costakevinn/GPredict)
+
+Gaussian Process-based predictive modeling framework for uncertainty estimation and data-driven forecasting.
+
+---
+
+### ParamInsight
+
+[https://github.com/costakevinn/ParamInsight](https://github.com/costakevinn/ParamInsight)
+
+Bayesian parameter estimation framework using MCMC for statistical modeling and predictive analysis.
+
+---
+
+### OptLearn
+
+[https://github.com/costakevinn/OptLearn](https://github.com/costakevinn/OptLearn)
+
+Optimization framework implementing Gradient Descent, RMSProp, and Adam for machine learning model training and performance tuning.
+
+---
+
+### Time-Series Distance Estimation
+
+[https://github.com/costakevinn/time-series-distance-estimation](https://github.com/costakevinn/time-series-distance-estimation)
+
+Large-scale time series analysis project involving signal extraction, statistical modeling, and structured data processing.
+
+---
+
+### Probabilistic ML Thesis
+
+[https://github.com/costakevinn/probabilistic-ml-thesis](https://github.com/costakevinn/probabilistic-ml-thesis)
+
+Research project focused on probabilistic machine learning, Bayesian modeling, and uncertainty quantification applied to real-world datasets.
+
+---
+
+# ESTAMOS AQUI
+
 
 ## Skills
 
