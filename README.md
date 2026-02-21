@@ -113,7 +113,7 @@ Research project focused on probabilistic machine learning, Bayesian modeling, a
   Scikit-learn, PyTorch, TensorFlow, Keras
 
 * **Workflow & Infrastructure:**
-  Docker, Git, Linux, Jupyter Notebook, Excel
+  Docker, Git, Linux, Jupyter Notebook
 
 ---
 
