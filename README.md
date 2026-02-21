@@ -29,11 +29,9 @@ Probabilistic regression model with predictive uncertainty estimation and custom
 **GPredict** — https://github.com/costakevinn/GPredict  
 Gaussian Process-based predictive modeling framework for uncertainty estimation and forecasting.
 
-**ParamInsight** — https://github.com/costakevinn/ParamInsight  
-Bayesian parameter estimation framework using MCMC for statistical modeling.
+**Probabilistic ML Thesis** — https://github.com/costakevinn/probabilistic-ml-thesis  
+Applied probabilistic modeling and machine learning to real-world datasets.
 
-**OptLearn** — https://github.com/costakevinn/OptLearn  
-Optimization engine implementing Gradient Descent, RMSProp, and Adam for machine learning training.
 
 ---
 
@@ -48,9 +46,12 @@ Relational PostgreSQL architecture focused on normalized schema design and data 
 **Time-Series Distance Estimation** — https://github.com/costakevinn/time-series-distance-estimation  
 Large-scale time series modeling involving signal extraction and statistical analysis.
 
-**Probabilistic ML Thesis** — https://github.com/costakevinn/probabilistic-ml-thesis  
-Applied probabilistic modeling and machine learning to real-world datasets.
 
+**ParamInsight** — https://github.com/costakevinn/ParamInsight  
+Bayesian parameter estimation framework using MCMC for statistical modeling.
+
+**OptLearn** — https://github.com/costakevinn/OptLearn  
+Optimization engine implementing Gradient Descent, RMSProp, and Adam for machine learning training.
 ---
 
 ## Skills
