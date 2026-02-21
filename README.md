@@ -50,8 +50,10 @@ Large-scale time series modeling involving signal extraction and statistical ana
 **ParamInsight** — https://github.com/costakevinn/ParamInsight  
 Bayesian parameter estimation framework using MCMC for statistical modeling.
 
+
 **OptLearn** — https://github.com/costakevinn/OptLearn  
 Optimization engine implementing Gradient Descent, RMSProp, and Adam for machine learning training.
+
 ---
 
 ## Skills
