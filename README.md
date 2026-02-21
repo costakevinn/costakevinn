@@ -107,10 +107,10 @@ Research project focused on probabilistic machine learning, Bayesian modeling, a
 ## Tools & Technologies
 
 * **Programming & Data:**
-  Python, SQL, PostgreSQL, NumPy, Pandas, SciPy, Matplotlib, OpenCV
+  Python, SQL, PostgreSQL, NumPy, Pandas, SciPy, Matplotlib
 
 * **Machine Learning Frameworks:**
-  Scikit-learn, PyTorch, TensorFlow, Keras
+  Scikit-learn, PyTorch, TensorFlow, Keras, OpenCV
 
 * **Workflow & Infrastructure:**
   Docker, Git, Linux, Jupyter Notebook
