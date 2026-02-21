@@ -1,3 +1,13 @@
+# Kevin Mota da Costa  
+Machine Learning & Data Professional  
+
+Vitória–ES, Brazil  
+
+[LinkedIn](https://www.linkedin.com/in/costakevinnn/) | 
+[GitHub](https://github.com/costakevinn) | 
+[Email](mailto:costakevinn.ml@gmail.com)
+
+
 # ESTAMOS AQUI
 
 # Kevin Mota da Costa
