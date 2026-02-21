@@ -91,6 +91,33 @@ Research project focused on probabilistic machine learning, Bayesian modeling, a
 
 ---
 
+## Skills
+
+* **Machine Learning:**
+  Predictive Modeling, Regression, Classification, Neural Networks, Deep Learning, Probabilistic Modeling, Gaussian Processes, Feature Engineering, Model Training, Model Evaluation, Hyperparameter Tuning
+
+* **Data Engineering & Analytics:**
+  Data Analysis, Data Modeling, ETL Pipelines, Data Cleaning, Data Validation, Data Integration, Time Series Analysis, Analytics Engineering
+
+* **Software & Systems Development:**
+  End-to-End Pipeline Development, Model Deployment Concepts, Version Control, Reproducible Workflows, Performance Optimization
+
+---
+
+## Tools & Technologies
+
+* **Programming & Data:**
+  Python, SQL, PostgreSQL, NumPy, Pandas, SciPy, Matplotlib, OpenCV
+
+* **Machine Learning Frameworks:**
+  Scikit-learn, PyTorch, TensorFlow, Keras
+
+* **Workflow & Infrastructure:**
+  Docker, Git, Linux, Jupyter Notebook, Excel
+
+---
+
+
 # ESTAMOS AQUI
 
 
