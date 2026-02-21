@@ -8,14 +8,17 @@ Vitória–ES, Brazil
 [Email](mailto:costakevinn.ml@gmail.com)
 
 
+## About Me
+
+Bachelor’s degree in Physics with hands-on experience in Machine Learning and Data Analysis.
+
+Builds predictive models and deep learning systems,
+and develops SQL-based data platforms and data pipelines
+for structured analytics workflows.
+
+
 # ESTAMOS AQUI
 
-# Kevin Mota da Costa
-**Junior Machine Learning Engineer | Python, SQL & Machine Learning**  
-Vitória–ES, Brazil | Email: [costakevinn.ml@gmail.com](mailto:costakevinn.ml@gmail.com)  
-LinkedIn: [linkedin.com/in/costakevinnn](https://www.linkedin.com/in/costakevinnn/) | GitHub: [github.com/costakevinn](https://github.com/costakevinn)
-
----
 
 ## About Me
 Aspiring Machine Learning Engineer with a strong analytical background (BSc in Physics) and 2 years of ML research experience, including a thesis in Machine Learning.  
