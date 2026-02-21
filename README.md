@@ -117,6 +117,16 @@ Research project focused on probabilistic machine learning, Bayesian modeling, a
 
 ---
 
+## Education
+
+**Bachelor of Science (B.Sc.) in Physics**
+Federal University of Espírito Santo (UFES) — 2018–2023
+Thesis focused on Machine Learning and Probabilistic Modeling.
+CNPq-funded research applying Python to predictive modeling and data analysis.
+
+**Technical Degree in IT Support & Systems**
+Federal Institute of Espírito Santo (IFES) — 2016–2017
+Foundation in systems integration, process automation, and structured problem-solving.
 
 # ESTAMOS AQUI
 
