@@ -15,7 +15,7 @@ Brazil
 
 B.Sc. in Physics with applied experience in Machine Learning and Data Systems.
 
-Works on supervised learning models, probabilistic predictive systems, and uncertainty-aware forecasting, while also designing structured SQL-based data architectures and reproducible data pipelines.
+Develops supervised learning models and probabilistic predictive systems, while designing structured SQL-based data architectures and reproducible ML pipelines.
 
 Combines statistical modeling, optimization, and software engineering practices to build reliable ML and data workflows.
 
