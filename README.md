@@ -1,135 +1,143 @@
-# Kevin Mota da Costa  
-Machine Learning & Data Engineer
+# Kevin Mota da Costa
 
-Brazil  
+**Machine Learning & Data Engineer**
+Brazil
 
-> Designing predictive models and structured data systems with a strong statistical foundation.
+> Building statistically grounded machine learning systems and structured data platforms for real-world problems.
 
-Focused on solving real-world problems through machine learning and structured data systems.
-
-[Portfolio](https://costakevinn.github.io/) • 
-[LinkedIn](https://www.linkedin.com/in/costakevinnn/) • 
+[Portfolio](https://costakevinn.github.io/) •
+[LinkedIn](https://www.linkedin.com/in/costakevinnn/) •
 [Email](mailto:costakevinn.ml@gmail.com)
 
 ---
 
 ## About
 
-B.Sc. in Physics with applied experience in Machine Learning and Data Systems.
+I design and implement machine learning and data systems with a strong foundation in statistics, optimization, and relational data architecture.
 
-Develops supervised and probabilistic learning systems, while designing structured SQL-based data architectures and reproducible ML pipelines.
+My work spans:
 
-Combines statistical modeling, optimization, and software engineering practices to build reliable ML and data workflows.
+* Probabilistic modeling and uncertainty-aware learning
+* Deep learning systems built from first principles
+* Bayesian inference and MCMC sampling
+* Time series modeling on real-world datasets
+* Structured SQL data platforms with integrity enforcement
+
+I combine mathematical rigor with production-style engineering to build reliable, reproducible ML workflows.
 
 ---
 
-## Approach
+## Engineering Philosophy
 
-I design machine learning and data systems guided by:
+My approach to ML and Data Engineering is guided by:
 
-- Statistical rigor over unnecessary model complexity
-- Reproducible pipelines over ad-hoc experimentation  
-- Data architecture as part of the modeling lifecycle
+* Statistical rigor over unnecessary model complexity
+* Reproducibility over ad-hoc experimentation
+* Data architecture as part of the modeling lifecycle
+* Validation and reconciliation as first-class system components
 
+I treat models and databases as systems — not scripts.
 
 ---
 
 ## Selected Projects
 
-### Machine Learning
+### Machine Learning & Probabilistic Systems
 
+**FilinGPT**
+Byte-level financial language model built from scratch in NumPy with structured ETL and training pipeline.
+→ [https://github.com/costakevinn/FilinGPT](https://github.com/costakevinn/FilinGPT)
 
-**FilinGPT**  
-Financial domain language modeling system for structured document processing and neural text generation.  
-→ https://github.com/costakevinn/FilinGPT  
+**ProbNN**
+Heteroscedastic probabilistic neural network for uncertainty-aware regression using likelihood-based optimization.
+→ [https://github.com/costakevinn/ProbNN](https://github.com/costakevinn/ProbNN)
 
-**ProbNN**  
-Probabilistic regression model designed for uncertainty-aware predictions in supervised learning tasks.  
-→ https://github.com/costakevinn/ProbNN  
+**GPredict**
+Gaussian Process regression framework implementing Bayesian non-parametric modeling and posterior inference.
+→ [https://github.com/costakevinn/GPredict](https://github.com/costakevinn/GPredict)
 
-**GPredict**  
-Gaussian Process regression framework for Bayesian modeling and time series forecasting.  
-→ https://github.com/costakevinn/GPredict  
+**Probabilistic Machine Learning Thesis**
+Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.
+→ [https://github.com/costakevinn/probabilistic-ml-thesis](https://github.com/costakevinn/probabilistic-ml-thesis)
 
-**Probabilistic ML Thesis**  
-Applied machine learning research integrating probabilistic modeling and statistical validation on real-world datasets.  
-→ https://github.com/costakevinn/probabilistic-ml-thesis  
-
-**Time-Series Distance Estimation**  
-Large-scale time series modeling project combining signal processing and supervised regression.  
-→ https://github.com/costakevinn/time-series-distance-estimation  
+**Time Series Distance Estimation (NASA ADS / arXiv)**
+Large-scale irregular time series processing and regression pipeline validated against benchmark datasets.
+→ [https://github.com/costakevinn/time-series-distance-estimation](https://github.com/costakevinn/time-series-distance-estimation)
 
 ---
 
-### Data & Analytics
+### Data Engineering & Analytical Systems
 
-**ParamInsight**  
-Bayesian statistical inference tool for parameter estimation and posterior distribution analysis using MCMC.  
-→ https://github.com/costakevinn/ParamInsight  
+**ChinookAnalytics**
+Layered SQL analytical platform (stg → core → marts) with financial reconciliation and executive reporting.
+→ [https://github.com/costakevinn/ChinookAnalytics](https://github.com/costakevinn/ChinookAnalytics)
 
-**OptLearn**  
-Numerical optimization framework for benchmarking and analyzing gradient-based algorithms.  
-→ https://github.com/costakevinn/OptLearn  
+**RetailSQL**
+Normalized relational data platform enforcing business rules and integrity at the storage layer.
+→ [https://github.com/costakevinn/RetailSQL](https://github.com/costakevinn/RetailSQL)
 
-**ChinookAnalytics**  
-Layered SQL analytics platform implementing structured data modeling and ETL workflows.  
-→ https://github.com/costakevinn/ChinookAnalytics  
+**ParamInsight**
+Custom Metropolis–Hastings MCMC engine for Bayesian parameter inference and posterior diagnostics.
+→ [https://github.com/costakevinn/ParamInsight](https://github.com/costakevinn/ParamInsight)
 
-**RetailSQL**  
-Relational database architecture focused on normalized schema design and integrity enforcement.  
-→ https://github.com/costakevinn/RetailSQL  
+**OptLearn**
+Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.
+→ [https://github.com/costakevinn/OptLearn](https://github.com/costakevinn/OptLearn)
 
 ---
 
 ## Core Competencies
 
 ### Machine Learning
-Supervised Learning (Regression & Classification)  
-Neural Networks & Deep Learning  
-Probabilistic Modeling & Uncertainty Quantification  
-Gaussian Processes & Bayesian Inference  
-Time Series Modeling  
-Model Evaluation, Cross-Validation & Hyperparameter Tuning  
+
+* Supervised Learning (Regression & Classification)
+* Deep Learning & Neural Networks
+* Probabilistic Modeling & Uncertainty Quantification
+* Gaussian Processes & Bayesian Inference
+* Time Series Analysis
+* Likelihood-Based Optimization
 
 ### Data Engineering & Analytics
-SQL Data Modeling & Relational Design  
-ETL / ELT Pipelines  
-Data Cleaning & Validation  
-Feature Engineering  
-Analytics Engineering  
 
-### Software & Systems
-End-to-End ML Pipelines  
-Reproducible Experimentation  
-Modular Architecture  
-Version Control (Git)  
-Performance & Optimization Practices  
+* Relational Modeling (3NF)
+* SQL Data Architecture
+* ETL / ELT Pipelines
+* Data Validation & Reconciliation
+* Analytics Engineering
+
+### Systems & Optimization
+
+* End-to-End ML Pipelines
+* Reproducible Experimentation
+* Modular Architecture
+* Gradient-Based Optimization
+* Performance & Numerical Stability
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
-**Machine Learning:**  
-Scikit-learn • PyTorch • TensorFlow • Keras  
+**Machine Learning:**
+PyTorch • TensorFlow • Keras • Scikit-learn
 
-**Programming & Data:**  
-Python • SQL • PostgreSQL  
+**Scientific Computing:**
+NumPy • SciPy • Pandas • Matplotlib
 
-**Scientific & Data Stack:**  
-NumPy • Pandas • SciPy • Matplotlib • OpenCV  
+**Data & Databases:**
+SQL • PostgreSQL
 
-**Infrastructure & Workflow:**  
-Docker • Git • Linux • Jupyter  
+**Infrastructure & Workflow:**
+Docker • Git • Linux • Jupyter
 
 ---
 
 ## Education
 
-**B.Sc. in Physics**  
-Federal University of Espírito Santo (UFES), Brazil (2018–2023)  
-Thesis focused on Machine Learning and Probabilistic Modeling.  
-CNPq-funded applied research using Python for predictive modeling and time series analysis.
+**B.Sc. in Physics**
+Federal University of Espírito Santo (UFES), Brazil (2018–2023)
+Thesis in Probabilistic Machine Learning and Statistical Modeling.
+CNPq-funded applied research in predictive modeling and time series analysis.
 
-**Technical Degree in IT Support & Systems**  
-Federal Institute of Espírito Santo (IFES), Brazil (2016–2017)  
-Training in systems architecture, infrastructure support, and structured technical problem-solving.
+**Technical Degree in IT Support & Systems**
+Federal Institute of Espírito Santo (IFES), Brazil (2016–2017)
+Training in systems architecture, infrastructure, and structured technical problem-solving.
