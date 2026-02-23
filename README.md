@@ -44,7 +44,7 @@ I treat models and databases as systems — not scripts.
 
 ### Machine Learning & Probabilistic Systems
 
-**FilinGPT**
+#### **FilinGPT**
 
 Byte-level financial language model built from scratch in NumPy with structured ETL and training pipeline.
 
