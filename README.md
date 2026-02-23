@@ -5,7 +5,7 @@ Brazil
 
 > Designing predictive models and structured data systems with a strong statistical foundation.
 
-Always interested in solving real-world problems through machine learning and data systems.
+Focused on solving real-world problems through machine learning and structured data systems.
 
 [Portfolio](https://costakevinn.github.io/) • 
 [LinkedIn](https://www.linkedin.com/in/costakevinnn/) • 
