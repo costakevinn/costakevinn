@@ -44,13 +44,13 @@ I treat models and databases as systems — not scripts.
 
 ### Machine Learning & Probabilistic Systems
 
-#### **FilinGPT**
+#### FilinGPT
 
 Byte-level financial language model built from scratch in NumPy with structured ETL and training pipeline.
 
 → [https://github.com/costakevinn/FilinGPT](https://github.com/costakevinn/FilinGPT)
 
-**ProbNN**
+#### ProbNN
 
 Heteroscedastic probabilistic neural network for uncertainty-aware regression using likelihood-based optimization.
 
