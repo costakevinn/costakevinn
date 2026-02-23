@@ -1,18 +1,22 @@
 # Kevin Mota da Costa  
 Machine Learning & Data Professional  
-Vitória–ES, Brazil  
+Brazil  
 
+[Portfolio](https://costakevinn.github.io/) • 
 [LinkedIn](https://www.linkedin.com/in/costakevinnn/) • 
-[GitHub](https://github.com/costakevinn) • 
 [Email](mailto:costakevinn.ml@gmail.com)
 
 ---
 
 ## About
 
-B.Sc. in Physics with practical experience in Machine Learning and Data Engineering.
+B.Sc. in Physics with applied experience in Machine Learning and Data Systems.
 
-Develops predictive models and neural network systems, while building structured SQL-based data platforms and end-to-end data pipelines.
+Works on supervised learning models, probabilistic predictive systems, and uncertainty-aware forecasting, while also designing structured SQL-based data architectures and reproducible data pipelines.
+
+Combines statistical modeling, optimization, and software engineering practices to build reliable ML and data workflows.
+
+
 
 ---
 
@@ -20,81 +24,98 @@ Develops predictive models and neural network systems, while building structured
 
 ### Machine Learning
 
+
 **FilinGPT**  
-Financial language model built from scratch in Python, combining neural network training with structured data pipelines.  
+Financial domain language modeling system for structured document processing and neural text generation.  
 → https://github.com/costakevinn/FilinGPT  
 
 **ProbNN**  
-Probabilistic regression model with predictive uncertainty estimation.  
+Probabilistic regression model designed for uncertainty-aware predictions in supervised learning tasks.  
 → https://github.com/costakevinn/ProbNN  
 
 **GPredict**  
-Gaussian Process framework for uncertainty-aware forecasting.  
+Gaussian Process regression framework for Bayesian modeling and time series forecasting.  
 → https://github.com/costakevinn/GPredict  
 
 **Probabilistic ML Thesis**  
-Applied probabilistic modeling and machine learning to real-world datasets.  
+Applied machine learning research integrating probabilistic modeling and statistical validation on real-world datasets.  
 → https://github.com/costakevinn/probabilistic-ml-thesis  
 
-**ParamInsight**  
-Bayesian parameter estimation tool using MCMC sampling.  
-→ https://github.com/costakevinn/ParamInsight  
-
-**OptLearn**  
-Optimization engine implementing Gradient Descent, RMSProp, and Adam.  
-→ https://github.com/costakevinn/OptLearn  
+**Time-Series Distance Estimation**  
+Large-scale time series modeling project combining signal processing and supervised regression.  
+→ https://github.com/costakevinn/time-series-distance-estimation  
 
 ---
 
 ### Data & Analytics
 
+**ParamInsight**  
+Bayesian statistical inference tool for parameter estimation and posterior distribution analysis using MCMC.  
+→ https://github.com/costakevinn/ParamInsight  
+
+**OptLearn**  
+Numerical optimization framework for benchmarking and analyzing gradient-based algorithms.  
+→ https://github.com/costakevinn/OptLearn  
+
 **ChinookAnalytics**  
-End-to-end SQL analytics platform with layered data modeling and ETL pipelines.  
+Layered SQL analytics platform implementing structured data modeling and ETL workflows.  
 → https://github.com/costakevinn/ChinookAnalytics  
 
 **RetailSQL**  
-PostgreSQL architecture focused on schema normalization and data integrity.  
+Relational database architecture focused on normalized schema design and integrity enforcement.  
 → https://github.com/costakevinn/RetailSQL  
-
-**Time-Series Distance Estimation**  
-Large-scale time series modeling and statistical signal analysis.  
-→ https://github.com/costakevinn/time-series-distance-estimation  
 
 ---
 
 ## Core Competencies
 
 ### Machine Learning
-Predictive Modeling • Regression • Classification • Neural Networks • Deep Learning • Probabilistic Modeling • Gaussian Processes • Feature Engineering • Model Training • Model Evaluation • Hyperparameter Tuning • Time Series Modeling  
+Supervised Learning (Regression & Classification)  
+Neural Networks & Deep Learning  
+Probabilistic Modeling & Uncertainty Quantification  
+Gaussian Processes & Bayesian Inference  
+Time Series Modeling  
+Model Evaluation, Cross-Validation & Hyperparameter Tuning  
 
 ### Data Engineering & Analytics
-Data Modeling • ETL Pipelines • Data Cleaning • Data Validation • Data Integration • Analytics Engineering  
+SQL Data Modeling & Relational Design  
+ETL / ELT Pipelines  
+Data Cleaning & Validation  
+Feature Engineering  
+Analytics Engineering  
 
 ### Software & Systems
-End-to-End Pipeline Development • Version Control • Reproducible Workflows • Performance Optimization  
+End-to-End ML Pipelines  
+Reproducible Experimentation  
+Modular Architecture  
+Version Control (Git)  
+Performance & Optimization Practices  
 
 ---
 
 ## Tools & Technologies
 
-### Programming & Data
-Python • SQL • PostgreSQL • NumPy • Pandas • SciPy • Matplotlib • OpenCV  
-
-### ML Frameworks
+**Machine Learning:**  
 Scikit-learn • PyTorch • TensorFlow • Keras  
 
-### Infrastructure
-Docker • Git • Linux • Jupyter Notebook  
+**Programming & Data:**  
+Python • SQL • PostgreSQL  
+
+**Scientific & Data Stack:**  
+NumPy • Pandas • SciPy • Matplotlib • OpenCV  
+
+**Infrastructure & Workflow:**  
+Docker • Git • Linux • Jupyter  
 
 ---
 
 ## Education
 
-**Bachelor of Science (B.Sc.) in Physics**  
-Federal University of Espírito Santo (UFES), Brazil — 2018–2023  
-Thesis in Machine Learning and Probabilistic Modeling.  
-CNPq-funded research applying Python to predictive modeling and time series analysis.
+**B.Sc. in Physics**  
+Federal University of Espírito Santo (UFES), Brazil (2018–2023)  
+Thesis focused on Machine Learning and Probabilistic Modeling.  
+CNPq-funded applied research using Python for predictive modeling and time series analysis.
 
 **Technical Degree in IT Support & Systems**  
-Federal Institute of Espírito Santo (IFES), Brazil — 2016–2017  
-Training in systems integration and structured technical problem-solving.
+Federal Institute of Espírito Santo (IFES), Brazil (2016–2017)  
+Training in systems architecture, infrastructure support, and structured technical problem-solving.
