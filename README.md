@@ -27,7 +27,7 @@ Combines statistical modeling, optimization, and software engineering practices 
 
 I design machine learning and data systems guided by:
 
-- Statistical rigor before model complexity  
+- Statistical rigor over unnecessary model complexity
 - Reproducible pipelines over ad-hoc experimentation  
 - Data architecture as part of the modeling lifecycle
 
