@@ -45,23 +45,33 @@ I treat models and databases as systems — not scripts.
 ### Machine Learning & Probabilistic Systems
 
 **FilinGPT**
+
 Byte-level financial language model built from scratch in NumPy with structured ETL and training pipeline.
+
 → [https://github.com/costakevinn/FilinGPT](https://github.com/costakevinn/FilinGPT)
 
 **ProbNN**
+
 Heteroscedastic probabilistic neural network for uncertainty-aware regression using likelihood-based optimization.
+
 → [https://github.com/costakevinn/ProbNN](https://github.com/costakevinn/ProbNN)
 
 **GPredict**
+
 Gaussian Process regression framework implementing Bayesian non-parametric modeling and posterior inference.
+
 → [https://github.com/costakevinn/GPredict](https://github.com/costakevinn/GPredict)
 
 **Probabilistic Machine Learning Thesis**
+
 Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.
+
 → [https://github.com/costakevinn/probabilistic-ml-thesis](https://github.com/costakevinn/probabilistic-ml-thesis)
 
 **Time Series Distance Estimation (NASA ADS / arXiv)**
+
 Large-scale irregular time series processing and regression pipeline validated against benchmark datasets.
+
 → [https://github.com/costakevinn/time-series-distance-estimation](https://github.com/costakevinn/time-series-distance-estimation)
 
 ---
@@ -69,19 +79,27 @@ Large-scale irregular time series processing and regression pipeline validated a
 ### Data Engineering & Analytical Systems
 
 **ChinookAnalytics**
+
 Layered SQL analytical platform (stg → core → marts) with financial reconciliation and executive reporting.
+
 → [https://github.com/costakevinn/ChinookAnalytics](https://github.com/costakevinn/ChinookAnalytics)
 
 **RetailSQL**
+
 Normalized relational data platform enforcing business rules and integrity at the storage layer.
+
 → [https://github.com/costakevinn/RetailSQL](https://github.com/costakevinn/RetailSQL)
 
 **ParamInsight**
+
 Custom Metropolis–Hastings MCMC engine for Bayesian parameter inference and posterior diagnostics.
+
 → [https://github.com/costakevinn/ParamInsight](https://github.com/costakevinn/ParamInsight)
 
 **OptLearn**
+
 Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.
+
 → [https://github.com/costakevinn/OptLearn](https://github.com/costakevinn/OptLearn)
 
 ---
