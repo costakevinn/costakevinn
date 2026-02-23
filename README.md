@@ -2,6 +2,8 @@
 Machine Learning & Data Professional  
 Brazil  
 
+> Designing predictive models and structured data systems with a strong statistical foundation.
+
 [Portfolio](https://costakevinn.github.io/) • 
 [LinkedIn](https://www.linkedin.com/in/costakevinnn/) • 
 [Email](mailto:costakevinn.ml@gmail.com)
@@ -16,6 +18,15 @@ Works on supervised learning models, probabilistic predictive systems, and uncer
 
 Combines statistical modeling, optimization, and software engineering practices to build reliable ML and data workflows.
 
+---
+
+## Approach
+
+I design machine learning and data systems guided by:
+
+- Statistical rigor before model complexity  
+- Reproducible pipelines over ad-hoc experimentation  
+- Data architecture as part of the modeling process
 
 
 ---
