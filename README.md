@@ -27,7 +27,7 @@ I design machine learning and data systems guided by:
 
 - Statistical rigor before model complexity  
 - Reproducible pipelines over ad-hoc experimentation  
-- Data architecture as part of the modeling process
+- Data architecture as part of the modeling lifecycle
 
 
 ---
