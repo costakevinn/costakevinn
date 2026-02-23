@@ -1,6 +1,5 @@
 # Kevin Mota da Costa  
 Machine Learning & Data Engineer
-
 Brazil  
 
 > Designing predictive models and structured data systems with a strong statistical foundation.
