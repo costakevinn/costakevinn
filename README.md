@@ -56,19 +56,19 @@ Heteroscedastic probabilistic neural network for uncertainty-aware regression us
 
 → [https://github.com/costakevinn/ProbNN](https://github.com/costakevinn/ProbNN)
 
-**GPredict**
+#### GPredict
 
 Gaussian Process regression framework implementing Bayesian non-parametric modeling and posterior inference.
 
 → [https://github.com/costakevinn/GPredict](https://github.com/costakevinn/GPredict)
 
-**Probabilistic Machine Learning Thesis**
+#### Probabilistic Machine Learning Thesis
 
 Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.
 
 → [https://github.com/costakevinn/probabilistic-ml-thesis](https://github.com/costakevinn/probabilistic-ml-thesis)
 
-**Time Series Distance Estimation (NASA ADS / arXiv)**
+#### Time Series Distance Estimation (NASA ADS / arXiv)
 
 Large-scale irregular time series processing and regression pipeline validated against benchmark datasets.
 
@@ -78,25 +78,25 @@ Large-scale irregular time series processing and regression pipeline validated a
 
 ### Data Engineering & Analytical Systems
 
-**ChinookAnalytics**
+#### ChinookAnalytics
 
 Layered SQL analytical platform (stg → core → marts) with financial reconciliation and executive reporting.
 
 → [https://github.com/costakevinn/ChinookAnalytics](https://github.com/costakevinn/ChinookAnalytics)
 
-**RetailSQL**
+#### RetailSQL
 
 Normalized relational data platform enforcing business rules and integrity at the storage layer.
 
 → [https://github.com/costakevinn/RetailSQL](https://github.com/costakevinn/RetailSQL)
 
-**ParamInsight**
+#### ParamInsight
 
 Custom Metropolis–Hastings MCMC engine for Bayesian parameter inference and posterior diagnostics.
 
 → [https://github.com/costakevinn/ParamInsight](https://github.com/costakevinn/ParamInsight)
 
-**OptLearn**
+#### OptLearn
 
 Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.
 
