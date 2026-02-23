@@ -40,6 +40,20 @@ I treat models and databases as systems — not scripts.
 
 ---
 
+
+## Selected Projects
+
+| **Machine Learning & Probabilistic Systems**                                                                                                                                                                          | **Data Engineering & Analytical Systems**                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[FilinGPT](https://github.com/costakevinn/FilinGPT)**  <br> Byte-level financial language model built from scratch in NumPy with structured ETL and training pipeline.                                              | **[ChinookAnalytics](https://github.com/costakevinn/ChinookAnalytics)** <br> Layered SQL analytical platform (stg → core → marts) with financial reconciliation and executive reporting. |
+| **[ProbNN](https://github.com/costakevinn/ProbNN)** <br> Heteroscedastic probabilistic neural network for uncertainty-aware regression using likelihood-based optimization.                                           | **[RetailSQL](https://github.com/costakevinn/RetailSQL)** <br> Normalized relational data platform enforcing business rules and integrity at the storage layer.                          |
+| **[GPredict](https://github.com/costakevinn/GPredict)** <br> Gaussian Process regression framework implementing Bayesian non-parametric modeling and posterior inference.                                             | **[ParamInsight](https://github.com/costakevinn/ParamInsight)** <br> Custom Metropolis–Hastings MCMC engine for Bayesian parameter inference and posterior diagnostics.                  |
+| **[Probabilistic ML Thesis](https://github.com/costakevinn/probabilistic-ml-thesis)** <br> Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.  | **[OptLearn](https://github.com/costakevinn/OptLearn)** <br> Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.           |
+| **[Time Series Distance Estimation](https://github.com/costakevinn/time-series-distance-estimation)** <br> Large-scale irregular time series processing and regression pipeline validated against benchmark datasets. |                                                                                                                                                                                          |
+
+---
+
+
 ## Selected Projects
 
 ### Machine Learning & Probabilistic Systems
