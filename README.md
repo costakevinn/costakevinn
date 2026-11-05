@@ -22,6 +22,7 @@ My work spans:
 * Deep learning systems built from first principles
 * Bayesian inference and MCMC sampling
 * Time series modeling on real-world datasets
+* Fraud detection on imbalanced data with gradient boosting and cost-based decisions
 * Real-time computer vision and gesture recognition
 * Structured SQL data platforms with integrity enforcement
 
@@ -53,6 +54,7 @@ I treat models and databases as systems — not scripts.
 | **[Probabilistic ML Thesis](https://github.com/costakevinn/probabilistic-ml-thesis)** <br> Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.  | **[OptLearn](https://github.com/costakevinn/OptLearn)** <br> Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.           |
 | **[Time Series Distance Estimation](https://github.com/costakevinn/time-series-distance-estimation)** <br> Large-scale irregular time series processing and regression pipeline validated against benchmark datasets. |                                                                                                                                                                                          |
 | **[VolumeVision](https://github.com/costakevinn/VolumeVision)** <br> Real-time hand gesture recognition with computer vision: MediaPipe hand landmarks from a camera stream mapped to a continuous control signal. |                                                                                                                                                                                          |
+| **[ULBFraudXGB](https://github.com/costakevinn/ULBFraudXGB)** <br> End-to-end credit card fraud detection: layered DuckDB SQL pipeline, XGBoost on imbalanced data and a decision threshold chosen by business cost. |                                                                                                                                                                                          |
 
 ---
 
@@ -61,6 +63,9 @@ I treat models and databases as systems — not scripts.
 ### Machine Learning
 
 * Supervised Learning (Regression & Classification)
+* Gradient Boosted Trees (XGBoost)
+* Imbalanced Classification & Fraud Detection
+* Cost-Sensitive Decision Thresholds
 * Deep Learning & Neural Networks
 * Probabilistic Modeling & Uncertainty Quantification
 * Gaussian Processes & Bayesian Inference
@@ -94,13 +99,13 @@ I treat models and databases as systems — not scripts.
 ## Tech Stack
 
 **Machine Learning:**
-PyTorch • TensorFlow • Keras • Scikit-learn • OpenCV • MediaPipe
+PyTorch • TensorFlow • Keras • Scikit-learn • XGBoost • OpenCV • MediaPipe
 
 **Scientific Computing:**
 NumPy • SciPy • Pandas • Matplotlib
 
 **Data & Databases:**
-SQL • PostgreSQL
+SQL • PostgreSQL • DuckDB
 
 **Infrastructure & Workflow:**
 Docker • Docker Compose • Git • Linux • Jupyter
