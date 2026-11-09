@@ -24,6 +24,7 @@ My work spans:
 * Time series modeling on real-world datasets
 * Fraud detection on imbalanced data with gradient boosting and cost-based decisions
 * Real-time computer vision and gesture recognition
+* LLM-powered data pipelines with structured output, validation and provider-independent failure handling
 * Structured SQL data platforms with integrity enforcement
 
 I combine mathematical rigor with production-style engineering to build reliable, reproducible ML workflows.
@@ -52,7 +53,7 @@ I treat models and databases as systems — not scripts.
 | **[ProbNN](https://github.com/costakevinn/ProbNN)** <br> Heteroscedastic probabilistic neural network for uncertainty-aware regression using likelihood-based optimization.                                           | **[RetailSQL](https://github.com/costakevinn/RetailSQL)** <br> Normalized relational data platform enforcing business rules and integrity at the storage layer.                          |
 | **[GPredict](https://github.com/costakevinn/GPredict)** <br> Gaussian Process regression framework implementing Bayesian non-parametric modeling and posterior inference.                                             | **[ParamInsight](https://github.com/costakevinn/ParamInsight)** <br> Custom Metropolis–Hastings MCMC engine for Bayesian parameter inference and posterior diagnostics.                  |
 | **[Probabilistic ML Thesis](https://github.com/costakevinn/probabilistic-ml-thesis)** <br> Unified probabilistic ML pipeline integrating neural networks, Gaussian processes, Bayesian inference, and MCMC sampling.  | **[OptLearn](https://github.com/costakevinn/OptLearn)** <br> Numerical optimization framework benchmarking SGD, Momentum, RMSProp, and Adam using finite-difference gradients.           |
-| **[Time Series Distance Estimation](https://github.com/costakevinn/time-series-distance-estimation)** <br> Large-scale irregular time series processing and regression pipeline validated against benchmark datasets. |                                                                                                                                                                                          |
+| **[Time Series Distance Estimation](https://github.com/costakevinn/time-series-distance-estimation)** <br> Large-scale irregular time series processing and regression pipeline validated against benchmark datasets. | **[HireLLMe](https://github.com/costakevinn/HireLLMe)** <br> LLM-powered job triage pipeline: Gmail alerts and Gupy search in bronze/silver/gold layers, triage with any LLM, scheduled on GitHub Actions with no-loss error handling. |
 | **[VolumeVision](https://github.com/costakevinn/VolumeVision)** <br> Real-time hand gesture recognition with computer vision: MediaPipe hand landmarks from a camera stream mapped to a continuous control signal. |                                                                                                                                                                                          |
 | **[ULBFraudXGB](https://github.com/costakevinn/ULBFraudXGB)** <br> End-to-end credit card fraud detection: layered DuckDB SQL pipeline, XGBoost on imbalanced data and a decision threshold chosen by business cost. |                                                                                                                                                                                          |
 
@@ -82,6 +83,9 @@ I treat models and databases as systems — not scripts.
 * ETL / ELT Pipelines
 * Data Validation & Reconciliation
 * Analytics Engineering
+* LLM Integration & Structured Output Validation
+* Workflow Orchestration & Scheduling (GitHub Actions)
+* Email & REST API Integration (IMAP)
 
 ### Systems & Optimization
 
@@ -93,6 +97,7 @@ I treat models and databases as systems — not scripts.
 * Real-Time Video Processing
 * MJPEG Video Streaming over HTTP
 * Containerized, Hardware-Agnostic Deployment
+* Idempotent, Fault-Tolerant Pipelines
 
 ---
 
@@ -101,6 +106,9 @@ I treat models and databases as systems — not scripts.
 **Machine Learning:**
 PyTorch • TensorFlow • Keras • Scikit-learn • XGBoost • OpenCV • MediaPipe
 
+**LLMs:**
+Claude (Anthropic API, Claude Code) • OpenAI-compatible APIs (Gemini, Groq, OpenRouter, Ollama)
+
 **Scientific Computing:**
 NumPy • SciPy • Pandas • Matplotlib
 
@@ -108,7 +116,7 @@ NumPy • SciPy • Pandas • Matplotlib
 SQL • PostgreSQL • DuckDB
 
 **Infrastructure & Workflow:**
-Docker • Docker Compose • Git • Linux • Jupyter
+Docker • Docker Compose • GitHub Actions • Git • Linux • Jupyter
 
 ---
 
