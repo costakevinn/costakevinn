@@ -57,6 +57,10 @@ I treat models and databases as systems — not scripts.
 | **[VolumeVision](https://github.com/costakevinn/VolumeVision)** <br> Real-time hand gesture recognition with computer vision: MediaPipe hand landmarks from a camera stream mapped to a continuous control signal. |                                                                                                                                                                                          |
 | **[ULBFraudXGB](https://github.com/costakevinn/ULBFraudXGB)** <br> End-to-end credit card fraud detection: layered DuckDB SQL pipeline, XGBoost on imbalanced data and a decision threshold chosen by business cost. |                                                                                                                                                                                          |
 
+### Tools & Automation
+
+* **[CVGit](https://github.com/costakevinn/CVGit)** — Résumé generator: YAML data model with validation and inheritance, compiled to LaTeX in an ATS-friendly and a designed style (Python, Docker, tests). Pairs with HireLLMe: one triages job postings, the other tailors the CV to each one.
+
 ---
 
 ## Core Competencies
@@ -116,7 +120,7 @@ NumPy • SciPy • Pandas • Matplotlib
 SQL • PostgreSQL • DuckDB
 
 **Infrastructure & Workflow:**
-Docker • Docker Compose • GitHub Actions • Git • Linux • Jupyter
+Docker • Docker Compose • GitHub Actions • Git • Linux • Jupyter • LaTeX
 
 ---
 
